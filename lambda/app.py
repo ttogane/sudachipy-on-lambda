@@ -21,10 +21,5 @@ def handler(event, context):
   text = event['text']
   analyzer = MorphologicalAnalyzer()
   res = analyzer.tokenize(text)
-  
-  print(res)
-  return res
 
-if __name__=="__main__":
-  res = handler({}, {})
-  print(res)
+  return res
