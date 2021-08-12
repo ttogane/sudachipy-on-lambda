@@ -1,0 +1,8 @@
+## The following requirements were added by pip freeze:
+awslambdaric==1.2.0
+Cython==0.29.24
+dartsclone==0.9.0
+simplejson==3.17.2
+sortedcontainers==2.1.0
+SudachiDict-full==20210802
+SudachiPy==0.5.2
